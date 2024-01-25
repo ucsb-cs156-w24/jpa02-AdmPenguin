@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w24/jpa02-AdmPenguin
 
-Deployed at: https://jpa02admpenguin.dokku-12.cs.ucsb.edu
+Deployed at: http://jpa02admpenguin.dokku-12.cs.ucsb.edu/
 
 # About this repo
 
